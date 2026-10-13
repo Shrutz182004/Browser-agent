@@ -1,0 +1,4 @@
+.env
+.venv
+results.txt
+__pycache__
